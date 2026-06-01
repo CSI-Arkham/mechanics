@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/00-index/willkommen/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/00 Index/Willkommen/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
 # Start
-Hier fängt alles an. Tada
+Hier fängt alles an. Tad
